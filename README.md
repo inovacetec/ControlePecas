@@ -3,7 +3,7 @@
 O sistema está disponível online através do Streamlit:
 
 👉 **Acesse aqui:**  
-https://controlepecas.streamlit.app/
+https://validadorestrutural.streamlit.app/
 
 ---
 
